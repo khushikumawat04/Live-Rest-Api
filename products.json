@@ -58,5 +58,65 @@
         "price": 399,
         "feature": true,
         "company": "Samsung"
+    },
+    {
+        "name": "MacBook Pro 16",
+        "price": 2799,
+        "feature": true,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Buds Pro",
+        "price": 199,
+        "feature": true,
+        "company": "Samsung"
+    },
+    {
+        "name": "Alienware m15",
+        "price": 2199,
+        "feature": true,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi Band 8",
+        "price": 49,
+        "feature": false,
+        "company": "Mi"
+    },
+    {
+        "name": "Apple Watch Ultra",
+        "price": 799,
+        "feature": true,
+        "company": "Apple"
+    },
+    {
+        "name": "Galaxy Z Fold 5",
+        "price": 1999,
+        "feature": true,
+        "company": "Samsung"
+    },
+    {
+        "name": "Dell UltraSharp Monitor",
+        "price": 599,
+        "feature": true,
+        "company": "Dell"
+    },
+    {
+        "name": "Mi Smart Air Fryer",
+        "price": 129,
+        "feature": true,
+        "company": "Mi"
+    },
+    {
+        "name": "iPad Pro 11",
+        "price": 999,
+        "feature": true,
+        "company": "Apple"
+    },
+    {
+        "name": "Samsung QLED TV",
+        "price": 1499,
+        "feature": true,
+        "company": "Samsung"
     }
 ]
