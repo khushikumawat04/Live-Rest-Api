@@ -1,6 +1,6 @@
 # Live REST API Setup
 
-Live Demo: [https://live-rest-api-production.up.railway.app/](https://live-rest-api-production.up.railway.app/)
+Live Demo: [https://live-rest-api-production.up.railway.app/api/products](https://live-rest-api-production.up.railway.app/api/products)
 
 Follow the steps below to run the project locally:
 
